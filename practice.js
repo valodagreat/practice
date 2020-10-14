@@ -1,4 +1,4 @@
-const offers = [['New store','diamond','50'],['shiny rockshop','ruby','10'],['Sample shop','jade','5']]
+const offers = [['New store','diamond',50],['shiny rockshop','ruby',10],['Sample shop','jade',5]]
 const preferences = ['diamond','ruby','emerald','jade']
 
 const gemStones = (offers,preferences)=>{
